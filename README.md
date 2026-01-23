@@ -21,6 +21,6 @@ Difficulty range is between 1⯁(normal) to 5⯁(master)
 |CTF|Name|Difficulty|Solves|theme|
 |----------------------------------------------------|------------------------------------------------|----------|-----:|----:|
 |[**SekaiCTF2025**](./2025/sekaictf-2025/alter-ego/)|[**alter-ego**](./2025/sekaictf-2025/alter-ego/)|3⯁(Hard)|7||
-|[**SECCON-CTF-14**](./2025/SECCON-CTF-14/)|[**nostalgic**](./2025/SECCON-CTF-14/nostalgic/)|3⯁(Hard)|12||
+|[**SECCON-CTF-14**](./2025/SECCON-CTF-14/)|[**nostalgic**](./2025/SECCON-CTF-14/nostalgic/)|4⯁(Expert)|12||
 |[**SECCON-CTF-14**](./2025/SECCON-CTF-14/)|[**last_flight**](./2025/SECCON-CTF-14/last_flight/)|3⯁(Hard)|32||
 
