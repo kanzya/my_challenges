@@ -2,7 +2,7 @@
 
 
 
-Difficulty range is between 1⯁(normal) to 5⯁(master)
+Difficulty range is between 1⯁(easy) to 5⯁(master)
 
 ## Crypto
 
