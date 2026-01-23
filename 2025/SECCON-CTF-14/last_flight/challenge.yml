@@ -1,0 +1,17 @@
+unique_name: "Last-Flight"
+name: "Last Flight"
+category: "Crypto"
+description: |
+  I got split up from them. 
+  It is the final chance. Can you find a special flight?
+  - nc last-flight.seccon.games 5000
+
+flags:
+  - key: "SECCON{You_have_made_your_wish_so_you_have_got_to_make_it_true}"
+    points:
+      type: "dynamic"
+      initial: 500
+      minimum: 50
+
+tags:
+  - "author:kanon"

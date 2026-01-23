@@ -1,0 +1,17 @@
+unique_name: "Nostalgic"
+name: "Nostalgic"
+category: "Crypto"
+description: |
+  On a rainy afternoon after school, a girl quietly gazed out the classroom window.
+  When a rainbow appeared in the sky, she wished for her feelings to find their way to their destination.
+  - nc nostalgic-seccon.games 5000
+
+flags:
+  - key: "SECCON{Listening_to_the_murmuring_waves_and_the_capricious_passing_rain_it_feels_like_a_gentle_dream}"
+    points:
+      type: "dynamic"
+      initial: 500
+      minimum: 50
+
+tags:
+  - "author:kanon"
