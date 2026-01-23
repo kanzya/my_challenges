@@ -1,5 +1,9 @@
 # my challenges
 
+
+
+Difficulty range is between 1⯁(normal) to 5⯁(master)
+
 ## Crypto
 
 ### 2024
@@ -8,8 +12,8 @@
 |------------------------------------------------------------|------------------------------------------------------------|----------|-----:|----:|
 |[**SekaiCTF2024**](./2024/sekaictf-2024)|[**マスタースパーク**](./2024/sekaictf-2024/master-spark/)|3⯁(Hard)|38||
 |[**SekaiCTF2024**](./2024/sekaictf-2024)|[**はやぶさ**](./2024/sekaictf-2024/hayabusa/)|3⯁(Hard)|23||
-|[**SECCON-Beginners-CTF-2024**](./2024/SECCON-Beginners-CTF-2024/)|[**bless**](./2024/SECCON-Beginners-CTF-2024/bless/)|2⯁(easy)|9||
-|[**SECCON-Beginners-CTF-2024**](./2024/SECCON-Beginners-CTF-2024/)|[**Tryhardinmystyle**](./2024/SECCON-Beginners-CTF-2024/Try%20hard%20in%20my%20style/)|2⯁(easy)|10||
+|[**SECCON-Beginners-CTF-2024**](./2024/SECCON-Beginners-CTF-2024/)|[**bless**](./2024/SECCON-Beginners-CTF-2024/bless/)|2⯁(normal)|9||
+|[**SECCON-Beginners-CTF-2024**](./2024/SECCON-Beginners-CTF-2024/)|[**Tryhardinmystyle**](./2024/SECCON-Beginners-CTF-2024/Try%20hard%20in%20my%20style/)|2⯁(normal)|10||
 
 
 ### 2025
