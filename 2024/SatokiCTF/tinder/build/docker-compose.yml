@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  tinder:
+    build: .
+    ports:
+      - 8901:8901
+    privileged: true
+    restart: unless-stopped

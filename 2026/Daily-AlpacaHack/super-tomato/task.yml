@@ -1,0 +1,22 @@
+name: super-tomato
+canonicalName: super-tomato
+description: |
+  Gluttony pink needs the tomato...
+descriptionJa: |
+  ぴんくいろ の ぼうしょく は とまと を もとめて いる...
+flag: Alpaca{Fully_restores_HP!!}
+flagFormat: Alpaca{...}
+categories:
+  - crypto
+tags: []
+authors:
+  - kanon
+remote:
+  connectionString: '`nc ${HOSTNAME} ${PORT}`'
+  composePath: ./compose.yml
+  shouldIsolate: false
+  defaultTtl: 1200
+openAt: 2026-01-02 00:00:00+09:00
+archiveAt: 2026-01-03 00:00:00+09:00
+isListed: true
+isArchived: false

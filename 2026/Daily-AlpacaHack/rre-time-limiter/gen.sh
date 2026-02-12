@@ -1,0 +1,1 @@
+FLAG="Alpaca{Let's_kick_off_this_fly_party_night}" python distfiles/chall.py > distfiles/output.txt

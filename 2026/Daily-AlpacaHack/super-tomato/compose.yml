@@ -1,0 +1,8 @@
+services:
+  fermat:
+    build: ./
+    environment:
+      - FLAG=Alpaca{Fully_restores_HP!!}
+    ports:
+      - ${PORT:-9999}:9999
+    restart: unless-stopped

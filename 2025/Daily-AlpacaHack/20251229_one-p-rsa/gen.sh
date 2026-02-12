@@ -1,0 +1,1 @@
+FLAG=Alpaca{which_rsa_do_you_like?} python distfiles/chall.py > distfiles/chall.txt

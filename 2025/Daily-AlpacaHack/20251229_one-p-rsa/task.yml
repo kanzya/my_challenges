@@ -1,0 +1,17 @@
+name: one-p-rsa
+canonicalName: one-p-rsa
+description: |
+  ordinary rsa use 2 primes, however this time only p  
+descriptionJa: |
+  通常のRSAは2つの素数を使いますが、今回は一つだけのようです
+flag: Alpaca{which_rsa_do_you_like?}
+flagFormat: Alpaca{...}
+categories:
+  - crypto
+tags: []
+authors:
+  - kanon
+openAt: 2025-12-29 00:00:00+09:00
+archiveAt: 2025-12-30 00:00:00+09:00
+isListed: true
+isArchived: false

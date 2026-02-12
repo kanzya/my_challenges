@@ -1,0 +1,19 @@
+name: RRe_Time_Limiter
+canonicalName: rre-time-limiter
+description: |
+  Waiting for "love" amid these monotonous days,
+  only to end up declaring, "Life's boring after all!" by ...
+descriptionJa: |
+  Waiting for "love" amid these monotonous days, 
+  only to end up declaring, "Life's boring after all!" by ...
+flag: Alpaca{Let's_kick_off_this_fly_party_night}
+flagFormat: Alpaca{...}
+categories:
+  - crypto
+tags: []
+authors:
+  - kanon
+openAt: 2026-02-05 00:00:00+09:00
+archiveAt: 2026-02-06 00:00:00+09:00
+isListed: true
+isArchived: false
