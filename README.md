@@ -24,13 +24,13 @@ Difficulty range is between 1⯁(easy) to 5⯁(master)
 |[**SekaiCTF2025**](./2025/sekaictf-2025/alter-ego/)|[**alter-ego**](./2025/sekaictf-2025/alter-ego/)|3⯁(Hard)|7||
 |[**SECCON-CTF-14**](./2025/SECCON-CTF-14/)|[**nostalgic**](./2025/SECCON-CTF-14/nostalgic/)|4⯁(Expert)|12||
 |[**SECCON-CTF-14**](./2025/SECCON-CTF-14/)|[**last_flight**](./2025/SECCON-CTF-14/last_flight/)|3⯁(Hard)|32||
-|[**Daily AlpacaHack**](./2025/Daily-AlpacaHack/)|[**last_flight**](./2025/Daily-AlpacaHack/20251229_one-p-rsa/)|1⯁(easy)|-||
+|[**Daily AlpacaHack**](./2025/Daily-AlpacaHack/)|[**one-p-rsa**](./2025/Daily-AlpacaHack/one-p-rsa/)|1⯁(easy)|-||
 
 
 ### 2026
 
 |CTF|Name|Difficulty|Solves|theme|
 |----------------------------------------------------|------------------------------------------------|----------|-----:|----:|
-|[**Daily AlpacaHack**](./2026/Daily-AlpacaHack/)|[**last_flight**](./2026/Daily-AlpacaHack/super-tomato/)|1⯁(easy)|-||
-|[**Daily AlpacaHack**](./2026/Daily-AlpacaHack/)|[**last_flight**](./2026/Daily-AlpacaHack/rre-time-limiter/)|1⯁(easy)|-||
+|[**Daily AlpacaHack**](./2026/Daily-AlpacaHack/)|[**super-tomato**](./2026/Daily-AlpacaHack/super-tomato/)|1⯁(easy)|-||
+|[**Daily AlpacaHack**](./2026/Daily-AlpacaHack/)|[**rre-time-limiter**](./2026/Daily-AlpacaHack/rre-time-limiter/)|1⯁(easy)|-||
 
